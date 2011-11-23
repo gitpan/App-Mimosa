@@ -22,7 +22,7 @@ name: App-Mimosa
 provides:
   App::Mimosa:
     file: lib/App/Mimosa.pm
-    version: 0.01
+    version: 0.02
   App::Mimosa::Aligner:
     file: lib/App/Mimosa/Aligner.pm
     version: 0
@@ -113,4 +113,4 @@ requires:
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/gmod/mimosa/tree/master
-version: 0.01
+version: 0.02
